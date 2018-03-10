@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:text="按钮4"
         android:textSize="20sp"
-        android:background="@drawable/bg_btn_4"
+        android:background="@drawable/selector_orange"
         android:textColor="#ffffff"
         android:layout_below="@id/btn_3"
         android:layout_marginTop="15dp"
